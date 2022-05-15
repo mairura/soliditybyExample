@@ -21,4 +21,4 @@ contract Counter {
         // This function will fail if count = 0
         count -= 1;
     }
-}
+} 
